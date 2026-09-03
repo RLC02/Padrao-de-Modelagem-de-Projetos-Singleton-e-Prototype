@@ -1,5 +1,7 @@
 # Sistema Secretaria Acadêmica
 
+# Integrantes: Ricardo, Guilherme
+
 Projeto Java que demonstra a aplicação dos padrões de projeto **Singleton** e **Prototype** no contexto de emissão de certificados de conclusão de curso.
 
 ---
